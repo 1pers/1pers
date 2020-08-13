@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning [NuxtJS](https://fr.nuxtjs.org/guide/installation/?ref=Erioushy) and [PHP update](https://www.php.net/?ref=Erioushy).
 
+⚡ I’m currently playing on [Eri Jeonju](https://github.com/fr-rp/eri.j/?ref=Erioushy) - FiveM - GTA V RP
+
 <!--
 **erioushy/erioushy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
