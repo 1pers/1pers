@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on [RenaHeberg](https://github.com/orgs/RenaHeberg/people) and my personal website.
+🔭 I’m currently working on [RenaHeberg](https://github.com/orgs/RenaHeberg/people?ref=Erioushy) and my personal website.
 
-🌱 I’m currently learning NuxtJS and PHP update.
+🌱 I’m currently learning [NuxtJS](https://fr.nuxtjs.org/guide/installation/?ref=Erioushy) and [PHP update](https://www.php.net/?ref=Erioushy).
 
 <!--
 **erioushy/erioushy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
