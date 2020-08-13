@@ -6,7 +6,10 @@
 ⚡ I’m currently playing on [Eri Jeonju](https://github.com/fr-rp/eri.j/?ref=Erioushy) - FiveM - GTA V RP
 
 ### Friends 👯
-💬 [@romainalcon](https://github.com/romainalcon) - RenaHeberg and personal
+💬 [@romainalcon](https://github.com/romainalcon?ref=Erioushy) - RenaHeberg and personal
+
+### Projects ⚡
+📫 [RenaHeberg](https://github.com/orgs/RenaHeberg/people?ref=Erioushy) - Association 1901 / 2018-Now
 
 <!--
 **erioushy/erioushy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
