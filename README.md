@@ -10,7 +10,7 @@
 - 📫 [RenaHeberg](https://github.com/orgs/RenaHeberg/people?ref=Erioushy) - Association 1901 / 2018-Now
 
 ### Others 🔭
-- 👯 Used for my personal hosting: [Vercel Hosting](https://vercel.com/?ref=Erioushy), [NuxtJS](https://fr.nuxtjs.org/guides/get-started/installation?ref=Erioushy) and [Boostrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/?ref=Erioushy).
+- 👯 Used for my personal website: [Vercel Hosting](https://vercel.com/?ref=Erioushy), [NuxtJS](https://fr.nuxtjs.org/guides/get-started/installation?ref=Erioushy) and [Boostrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/?ref=Erioushy).
 
 [![Erioushy github stats](https://github-readme-stats.vercel.app/api?username=erioushy&show_icons=true&icon_color=2f80ed)](https://erioushy.fr)
 
