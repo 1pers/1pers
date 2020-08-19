@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on [RenaHeberg](https://github.com/orgs/RenaHeberg/people?ref=Erioushy) and [my personal website](https://erioushy.fr).
 - 🌱 I’m currently learning [NuxtJS](https://fr.nuxtjs.org/guides/get-started/installation?ref=Erioushy) and [PHP update](https://www.php.net/?ref=Erioushy).
-- ⚡ I’m currently playing on [Eri Jeonju](https://github.com/fr-rp/eri-jeonju/?ref=Erioushy) - FiveM - GTA V RP
+- ⚡ I’m currently playing on [Eri Jeonju](https://github.com/fr-rp/eri-jeonju-v2/?ref=Erioushy) - FiveM - GTA V RP
 
 ### Friends 👯
 - 💬 [@romainalcon](https://github.com/romainalcon?ref=Erioushy) - RenaHeberg and personal
