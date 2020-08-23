@@ -7,7 +7,7 @@
 - 💬 [@romainalcon](https://github.com/romainalcon?ref=Erioushy) - RenaHeberg and personal
 
 ### Projects ⚡
-- 📫 [RenaHeberg](https://renaheberg.github.io) - Association 1901 / 2018-Now
+- 📫 [RenaHeberg](https://renaheberg.fr) - Association 1901 / 2018-Now
 
 ### Others 🔭
 - 👯 Used for my personal website: [GitHub Repo'](https://github.com/erioushy/website?ref=Erioushy), <!--[Vercel Deploy](https://vercel.com/?ref=Erioushy)--> [PlanetHoster](https://www.planethoster.com/goph-a65f664dc55edbc), [NuxtJS](https://fr.nuxtjs.org/guides/get-started/installation?ref=Erioushy) and [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/?ref=Erioushy).
