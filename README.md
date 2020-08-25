@@ -12,9 +12,8 @@
 ```
 Nous vous laisserons le site internet disponible quelque temps, mais nous allons pas vous mentir et se mentir à nous-mêmes.
 RenaHeberg est voué à être une association dissoute, d'autres projets (pré)occupent nos membres.
-Si vous souhaitez les suivre, c'est dans nos abonnements.
-``` 
-@RenaHeberg - 25 août 2020 ([Twitter](https://twitter.com/RenaHeberg/status/1298188653383110661))
+Si vous souhaitez les suivre, c'est dans nos abonnements. / @RenaHeberg - 25 août 2020
+```
 
 ### Others 🔭
 - 👯 Used for my personal website: [GitHub Repo'](https://github.com/erioushy/website?ref=Erioushy), [Vercel Deploy](https://vercel.com/?ref=Erioushy) <!--[PlanetHoster](https://www.planethoster.com/goph-a65f664dc55edbc)-->, [NuxtJS](https://fr.nuxtjs.org/guides/get-started/installation?ref=Erioushy) and [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/?ref=Erioushy).
