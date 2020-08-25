@@ -8,10 +8,9 @@
 
 ### Projects ⚡
 - 📫 [RenaHeberg](https://renaheberg.fr) - Association 1901 / 2018-Now
+
 "Nous vous laisserons le site internet disponible quelque temps, mais nous allons pas vous mentir et se mentir à nous-mêmes.
-
 RenaHeberg est voué à être une association dissoute, d'autres projets (pré)occupent nos membres.
-
 Si vous souhaitez les suivre, c'est dans nos abonnements." - 25 août 2020 ([Twitter](https://twitter.com/RenaHeberg/status/1298188653383110661))
 
 ### Others 🔭
