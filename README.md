@@ -4,7 +4,7 @@
 * :feet: I’m currently playing on // - FiveM - GTA V RP
 
 ### Friends :dancers:
-:speech_balloon: [@romainalcon](https://github.com/romainalcon?ref=Erioushy)
+* :speech_balloon: [@romainalcon](https://github.com/romainalcon?ref=Erioushy)
 
 ### Projects :cloud:
 
