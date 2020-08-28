@@ -20,8 +20,8 @@ RenaHeberg | 08/12/2018-Now²
 - :dancers: Used for my personal website: [GitHub Repo'](https://github.com/erioushy/website), [Vercel Deploy](https://vercel.com/) <!--[PlanetHoster](https://www.planethoster.com/goph-a65f664dc55edbc)-->, [NuxtJS](https://fr.nuxtjs.org/guides/get-started/installation) and [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/).
 - :dancers: Used for RenaHeberg website: OVH web hosting and domain name.
 
-[![idkSheShy github stats](https://github-readme-stats.vercel.app/api?username=idkSheShy&show_icons=true&icon_color=2f80ed)](https://erioushy.fr)
+[![LittleShyIDK github stats](https://github-readme-stats.vercel.app/api?username=LittleShyIDK&show_icons=true&icon_color=2f80ed)](https://erioushy.fr)
 
 <!--
-**erioushy/erioushy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LittleShyIDK/LittleShyIDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
