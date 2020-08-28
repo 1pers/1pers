@@ -12,9 +12,9 @@ Name | Date
 ------------ | -------------
 RenaHeberg | 08/12/2018-Now²
 
-> ²Nous vous laisserons le site internet disponible quelque temps, mais nous allons pas vous mentir et se mentir à nous-mêmes.
-> RenaHeberg est voué à être une association dissoute, d'autres projets (pré)occupent nos membres.
-> Si vous souhaitez les suivre, c'est dans nos abonnements. / @RenaHeberg - 25 août 2020 - [Voir sur Twitter](https://twitter.com/RenaHeberg/status/1298188653383110661)
+> ²We'll let you have the website available for a while, but we're not going to lie to you and lie to ourselves.
+> RenaHeberg is destined to be a dissolved association, other projects (pre)occupy our members.
+> If you wish to follow them, it is in our subscriptions. / @RenaHeberg - 25 August 2020 - [See on Twitter (FR)](https://twitter.com/RenaHeberg/status/1298188653383110661)
 
 ### Others :satellite:
 - :dancers: Used for my personal website: [GitHub Repo'](https://github.com/LittleShyIDK/website), [Vercel Deploy](https://vercel.com/), [NuxtJS](https://fr.nuxtjs.org/guides/get-started/installation) and [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) (v4.5).
