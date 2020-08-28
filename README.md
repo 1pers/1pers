@@ -1,7 +1,7 @@
 ### Hi there :wave:
 * :thought_balloon: I’m currently working on [RenaHeberg](https://github.com/orgs/RenaHeberg/people) and [my personal website](https://erioushy.fr).
 * :droplet:  I’m currently learning [NuxtJS](https://fr.nuxtjs.org/guides/get-started/installation) and [PHP update](https://www.php.net/).
-* :feet: I’m currently playing on // - FiveM - GTA V RP
+<!-- * :feet: I’m currently playing on // - FiveM - GTA V RP -->
 
 ### Friends :dancers:
 * :speech_balloon: [@romainalcon](https://github.com/romainalcon)
