@@ -1,5 +1,5 @@
 ### Hi there :wave:
-* :thought_balloon: I’m currently working on [RenaHeberg](https://github.com/orgs/RenaHeberg/people) and [my personal website](https://erioushy.fr).
+* :thought_balloon: I’m currently working on [RenaHeberg](https://github.com/orgs/RenaHeberg/people) and [my personal website](https://littleshyidk.github.io).
 * :droplet:  I’m currently learning [NuxtJS](https://fr.nuxtjs.org/guides/get-started/installation) and [PHP update](https://www.php.net/).
 <!-- * :feet: I’m currently playing on // - FiveM - GTA V RP -->
 
