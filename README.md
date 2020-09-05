@@ -1,6 +1,7 @@
 ### Hi there :wave:
 * :thought_balloon: I’m currently working on [RenaHeberg](https://github.com/orgs/RenaHeberg/people) and [my personal website](https://lsidk.eu.org).
-* :droplet:  I have a second "zone" named [@LSIDK](https://github.com/LSIDK) for other repository.
+* :droplet: I have a second "zone" named [@LSIDK](https://github.com/LSIDK) for other repository.
+* :cloud: My [roleplay folder](https://github.com/LSIDK/roleplay-folder) <.
 
 ### Friends :dancers:
 * :speech_balloon: [@romainalcon](https://github.com/romainalcon)
