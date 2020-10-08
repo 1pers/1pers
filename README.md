@@ -5,4 +5,4 @@
 ### Friends :dancers:
 * :speech_balloon: [@romainalcon](https://github.com/romainalcon)
 
-![Detailed Images](https://github.com/PyxHub/PyxHub/blob/master/detailed_infos.png?raw=true)
+<img src="https://github.com/PyxHub/PyxHub/blob/master/detailed_infos.png" alt="Your image title" width="250"/>
