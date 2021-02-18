@@ -1,4 +1,4 @@
-### Informations
+### <a href="https://github.com/newlynameds" target="_blank"><img src="https://github.com/newlynameds/newlynameds/blob/master/images/rb.jump.gif?raw=true" width="22px"></a> Informations
 **Language** <br>
 Web: HTML, JS, CSS, PHP. <br>
 Others: NodeJS.
