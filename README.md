@@ -1,20 +1,20 @@
 ### <a href="https://github.com/newlynameds" target="_blank"><img src="https://github.com/newlynameds/newlynameds/blob/master/images/rainbow.star.gif?raw=true" width="22px"></a> Informations
 **Language** <br>
 <a href="https://fr.wikipedia.org/wiki/HTML5" target="_blank">
-  <img src="https://shields.io/badge/HTML-5-orange?logo=brave&style=flat">
+  <img src="https://shields.io/badge/HTML-5-orange?logo=Brave&style=flat&logoColor=white">
 </a> 
 <a href="https://fr.wikipedia.org/wiki/JavaScript" target="_blank">
-  <img src="https://shields.io/badge/JavaScript-11-yellow?logo=brave&style=flat">
+  <img src="https://shields.io/badge/JavaScript-11-yellow?logo=brave&style=flat&logoColor=white">
 </a> 
 <a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade" target="_blank">
-  <img src="https://shields.io/badge/CSS-Web-blue?logo=brave&style=flat">
+  <img src="https://shields.io/badge/CSS-2.1-blue?logo=brave&style=flat&logoColor=white">
 </a> 
 <a href="https://fr.wikipedia.org/wiki/PHP" target="_blank">
-  <img src="https://shields.io/badge/PHP-8.0.2-blueviolet?logo=brave&style=flat">
+  <img src="https://shields.io/badge/PHP-8.0.2-blueviolet?logo=brave&style=flat&logoColor=white">
 </a> 
 <br>
 <a href="https://fr.wikipedia.org/wiki/Node.js" target="_blank">
-  <img src="https://shields.io/badge/Node.js-15.9.0-success?logo=brave&style=flat">
+  <img src="https://shields.io/badge/Node.js-15.9.0-success?logo=brave&style=flat&logoColor=white">
 </a>
 <br><br>
 **Software** <br>
