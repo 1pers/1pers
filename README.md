@@ -1,6 +1,6 @@
 ### <a href="https://github.com/newlynameds" target="_blank"><img src="https://github.com/newlynameds/newlynameds/blob/master/images/rainbow.star.gif?raw=true" width="22px"></a> Informations
 **Language** <br>
-<a href="https://fr.wikipedia.org/wiki/Hypertext_Markup_Language" target="_blank">
+<a href="https://fr.wikipedia.org/wiki/HTML5" target="_blank">
   <img src="https://github.com/newlynameds/newlynameds/blob/master/images/dev.html.svg?raw=true">
 </a> 
 <a href="https://fr.wikipedia.org/wiki/JavaScript" target="_blank">
