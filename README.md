@@ -19,7 +19,7 @@
 <br><br>
 **Software** <br>
 <a href="https://fr.wikipedia.org/wiki/Sublime_Text" target="_blank">
-  <img src="https://img.shields.io/badge/Sublime%20Text-3-orange?logo=Windows&style=flat">
+  <img src="https://img.shields.io/badge/Sublime%20Text-4-orange?logo=Windows&style=flat">
 </a> <br>
 <a href="https://fr.wikipedia.org/wiki/Adobe_Photoshop" target="_blank">
   <img src="https://img.shields.io/badge/Photoshop-2021-blue?logo=Windows&style=flat">
