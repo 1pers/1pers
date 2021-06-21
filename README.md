@@ -24,9 +24,6 @@
 <a href="https://fr.wikipedia.org/wiki/Adobe_Photoshop" target="_blank">
   <img src="https://img.shields.io/badge/Photoshop-2021-blue?logo=Windows&style=flat">
 </a> 
-<a href="https://fr.wikipedia.org/wiki/Adobe_After_Effects" target="_blank">
-  <img src="https://img.shields.io/badge/After%20Effects-2020-blueviolet?logo=Windows&style=flat">
-</a> 
 <br><br>
 **Local Server** <br>
 <a href="https://fr.wikipedia.org/wiki/WampServer" target="_blank">
