@@ -1,4 +1,4 @@
-### <a href="https://github.com/newlynameds" target="_blank"><img src="https://github.com/newlynameds/newlynameds/blob/master/images/rainbow.star.gif?raw=true" width="22px"></a> Informations
+### <a href="https://github.com/bannedSweetie" target="_blank"><img src="https://github.com/newlynameds/newlynameds/blob/master/images/rainbow.star.gif?raw=true" width="22px"></a> Informations
 **Language** <br>
 <a href="https://fr.wikipedia.org/wiki/HTML5" target="_blank">
   <img src="https://img.shields.io/badge/HTML-5-orange?logo=Brave&style=flat&logoColor=white">
@@ -29,5 +29,5 @@
 <a href="https://fr.wikipedia.org/wiki/WampServer" target="_blank">
   <img src="https://img.shields.io/badge/WampServer-3.2.3-blueviolet?logo=Windows&style=flat">
 </a> 
-### <a href="https://github.com/newlynameds" target="_blank"><img src="https://github.com/newlynameds/newlynameds/blob/master/images/crystal.green.png?raw=true" width="22px"></a> Heart for you <a href="https://github.com/newlynameds" target="_blank"><img src="https://github.com/newlynameds/newlynameds/blob/master/images/crystal.red.png?raw=true" width="22px"></a>
+### <a href="https://github.com/bannedSweetie" target="_blank"><img src="https://github.com/bannedSweetie/bannedSweetie/blob/master/images/crystal.green.png?raw=true" width="22px"></a> Heart for you <a href="https://github.com/newlynameds" target="_blank"><img src="https://github.com/bannedSweetie/bannedSweetie/blob/master/images/crystal.red.png?raw=true" width="22px"></a>
 <a href="https://links.seevysia.fr" target="_blank"><img src="https://discord.c99.nl/widget/theme-4/637228770541043733.png"></a>
